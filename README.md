@@ -13,14 +13,17 @@ A curated list of awesome things and projects built by Algerian developpers.
 ## Open Data
 - [Algerian Administrative Division](https://github.com/mohsenuss91/AlgerianAdministrativeDivision) - Wilayas - Daïras - baladiyahs
 - [Algerial Logos](https://github.com/mohsenuss91/AlgerianLogos) - Some Algerian official vectorized (.SVG) Logos
+- [algeria-cities](https://github.com/othmanus/algeria-cities) - A complete list of Algeria provinces and municipalities in csv, xlsx, sql, php and json formats.
 
 ## Applications
 - [Alfanous](https://github.com/Alfanous-team/alfanous) - Alfanous is an Arabic search engine API provides the simple and advanced search in Quran
+- [DzLibs](https://github.com/01walid/dzlibs) - A community-driven Algerian index of reusable assets and libraries.
 
 ## Libraries and Frameworks
 - JavaScript
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
   - [Arli](https://github.com/elkebirmed/arli) - JavaScript tools for an Arabic development
+  - [algeriajs](https://github.com/rouabhi/algeriajs) - A simple Node.js package that provides administrative, location and information about algeria.
 
 - PHP
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
@@ -31,6 +34,7 @@ A curated list of awesome things and projects built by Algerian developpers.
 
 ## Other
 - [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
+- [autodeploy-github-bitbucket](https://github.com/kossa/autodeploy-github-bitbucket) - A simple PHP script to auto deploy from github and bitbucket
 
 ---
 ## Contribution
