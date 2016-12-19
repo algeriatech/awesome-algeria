@@ -26,11 +26,14 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
 - Go
   - [Go Arabic](https://github.com/01walid/goarabic) - A Go Lang package for dealing with Arabic text
+- C
+  - [ArduinoSpritzCipher](https://github.com/abderraouf-adjal/ArduinoSpritzCipher) - Spritz library for Arduino, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions
 - Other languages
   - [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
 
 ## Other
 - [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
+- [Deniable Encrypted Keys Database](https://github.com/abderraouf-adjal/dekdb-format-specifications) - Deniable Encrypted Keys Database (DEKDB) format specifications
 
 ---
 ## Contribution
