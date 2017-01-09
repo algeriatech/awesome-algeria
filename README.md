@@ -30,7 +30,7 @@ A curated list of awesome things and projects built by Algerian developpers.
 - C
   - [ArduinoSpritzCipher](https://github.com/abderraouf-adjal/ArduinoSpritzCipher) - Spritz library for Arduino, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions
 - Other languages
-  - [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
+  - [Arabic Stemmer](https://github.com/assem-ch/arabicstemmer) - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
 
 ## Other
 - [Deniable Encrypted Keys Database](https://github.com/abderraouf-adjal/dekdb-format-specifications) - Deniable Encrypted Keys Database (DEKDB) format specifications
