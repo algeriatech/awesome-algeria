@@ -32,10 +32,13 @@ A curated list of awesome things and projects built by Algerian developpers.
 - Other languages
   - [Arabic Stemmer](https://github.com/assem-ch/arabicstemmer) - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
 
+## Educational Material
+- [DZ Code Academy](https://www.youtube.com/channel/UCwXgoe2Ove8fIuWadL4NNyw) - Learn to code in Arabic (Algerian dialect)
+
 ## Other
 - [Deniable Encrypted Keys Database](https://github.com/abderraouf-adjal/dekdb-format-specifications) - Deniable Encrypted Keys Database (DEKDB) format specifications
 - [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
-- [DZ Code Academy](https://github.com/Ilyes-Hammadi/dz-code-academy) - Learn to code in Arabic (Algerian dialect)
+
 
 ---
 ## Contribution
