@@ -19,8 +19,9 @@ A curated list of awesome things and projects built by Algerian developpers.
 
 ## Libraries and Frameworks
 - JavaScript
-  - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
   - [Arli](https://github.com/elkebirmed/arli) - JavaScript tools for an Arabic development
+  - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
+  - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
 
 - PHP
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
@@ -32,8 +33,8 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
 
 ## Other
-- [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
 - [Deniable Encrypted Keys Database](https://github.com/abderraouf-adjal/dekdb-format-specifications) - Deniable Encrypted Keys Database (DEKDB) format specifications
+- [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
 
 ---
 ## Contribution
