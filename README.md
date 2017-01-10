@@ -29,10 +29,13 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [Go Arabic](https://github.com/01walid/goarabic) - A Go Lang package for dealing with Arabic text
 - C
   - [ArduinoSpritzCipher](https://github.com/abderraouf-adjal/ArduinoSpritzCipher) - Spritz library for Arduino, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions
+- Python
+  - [Tchamba.random](https://github.com/Fcmam5/tchamba) package of functions generating random data (colors, names, jokes, letters..)
 - Other languages
   - [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
 
 ## Other
+- [awesome-open-minds](https://github.com/open-minds/awesome-openminds-team) awesome useful links, resources and shiny things for CS students, geeks and developers
 - [Deniable Encrypted Keys Database](https://github.com/abderraouf-adjal/dekdb-format-specifications) - Deniable Encrypted Keys Database (DEKDB) format specifications
 - [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
 
