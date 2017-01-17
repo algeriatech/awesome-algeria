@@ -16,6 +16,7 @@ A curated list of awesome things and projects built by Algerian developpers.
 
 ## Applications
 - [Alfanous](https://github.com/Alfanous-team/alfanous) - Alfanous is an Arabic search engine API provides the simple and advanced search in Quran
+- [Ji3an](https://github.com/Taybou/JiaanApp) - Ji3an is a mobile application for food recipes and cart shopping
 
 ## Libraries and Frameworks
 - JavaScript
