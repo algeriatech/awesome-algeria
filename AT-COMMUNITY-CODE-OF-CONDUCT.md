@@ -6,7 +6,7 @@
 * Do not harass others
 * Do not share personal information of others to people outside the community
 * Do not divulge privileged information of any company, to anyone in our team
-* Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Developer community
+* Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the Algeria Tech Community
 * Select channels are publicly provided and present, select and join the one that suite you best.
 
 
