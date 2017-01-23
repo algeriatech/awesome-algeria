@@ -1,5 +1,13 @@
 # Algeria Tech Community Slack - Code of Conduct
 
+## Disclaimer : 
+
+**The Algeria Tech Community is an ALGERIAN only community, means that all the Algerian people, both local and abroad are welcome to join, while keeping on respecting all sort of marks/tradition that goes with the Algerian identity and that sum all the given aspects of that identity, if the organization team felt that someone, some group are going against that rule, they will be expeled from the channels as a whole.**
+
+**It's the very same golden rule that led to the creation of this community.**
+
+**Thank you for understanding.**
+
 ## TL;DR
 
 * Be respectful of others
