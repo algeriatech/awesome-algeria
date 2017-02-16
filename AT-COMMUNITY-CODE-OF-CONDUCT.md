@@ -2,7 +2,7 @@
 
 ## Disclaimer : 
 
-**The Algeria Tech Community is an Algerian Tech only community, mean all people living in Algeria and all Algerians living abroad are welcome to join us , while keeping on respecting all sort of marks/tradition that goes with the Algerian Identity and that sum all the given aspects of that Identity, if the organization team felt that someone, some group are going against that rule, they will be expeled from the channels as a whole.**
+**The Algeria Tech Community is an Algerian Technology-Focused Community, meaning all algerians that have an interest in the field are welcome to join us. Anyone who have some sort of projects or propositions, is always welcome to get in touch with the community. Respecting all the marks/traditions that goes with the Algerian Identity is a golden rule.**
 
 **It's the very same golden rule that led to the creation of this community.**
 
