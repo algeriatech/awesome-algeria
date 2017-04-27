@@ -39,6 +39,7 @@ A curated list of awesome things and projects built by Algerian developpers.
 
 ## Other
 - [awesome-open-minds](https://github.com/open-minds/awesome-openminds-team) awesome useful links, resources and shiny things for CS students, geeks and developers
+- [ESI-Linux](https://github.com/youben11/ESI_Linux/) - ESI Linux is a linux distribution made for ESI-SBA students particularly,it provides all the necessary tools for their curriculum
 - [Deniable Encrypted Keys Database](https://github.com/abderraouf-adjal/dekdb-format-specifications) - Deniable Encrypted Keys Database (DEKDB) format specifications
 - [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
 
