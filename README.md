@@ -32,6 +32,7 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [Go Arabic](https://github.com/01walid/goarabic) - A Go Lang package for dealing with Arabic text
 - C
   - [ArduinoSpritzCipher](https://github.com/abderraouf-adjal/ArduinoSpritzCipher) - Spritz library for Arduino, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions
+  - [internet-socket](https://github.com/youben11/internet-socket) - A library to facilitate the use of internet socket (socket of family PF_INET) in C programming
 - Python
   - [Tchamba.random](https://github.com/Fcmam5/tchamba) package of functions generating random data (colors, names, jokes, letters..)
 - Other languages
