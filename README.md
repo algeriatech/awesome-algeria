@@ -23,6 +23,7 @@ A curated list of awesome things and projects built by Algerian developpers.
 ## Libraries and Frameworks
 - JavaScript
   - [Arli](https://github.com/elkebirmed/arli) - JavaScript tools for an Arabic development
+  - [internet-socket](https://github.com/youben11/internet-socket) - A useful library to facilitate the use of internet socket (socket of family PF_INET) in C programming
   - [jQuery Ajax Native](https://github.com/acigna/jquery-ajax-native) - jQuery Plugin that adds XHR2 responseType support
   - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
