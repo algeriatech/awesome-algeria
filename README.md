@@ -21,10 +21,13 @@ A curated list of awesome things and projects built by Algerian developpers.
 - [Timgad](https://github.com/OpenDZ/timgad) - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself
 
 ## Libraries and Frameworks
+- CSS
+  - [Hexa](https://github.com/amine1107/Hexa) A simple and lightweight CSS animation library
 - JavaScript
   - [Arli](https://github.com/elkebirmed/arli) - JavaScript tools for an Arabic development
   - [jQuery Ajax Native](https://github.com/acigna/jquery-ajax-native) - jQuery Plugin that adds XHR2 responseType support
   - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
+  - [Nightly.js](https://github.com/Fcmam5/nightly.js) - A zero dependency JavaScript library for enabling the Dark mode in your UI
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
 - PHP
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
