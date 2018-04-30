@@ -26,8 +26,8 @@ A curated list of awesome things and projects built by Algerian developpers.
 - JavaScript
   - [Arli](https://github.com/elkebirmed/arli) - JavaScript tools for an Arabic development
   - [jQuery Ajax Native](https://github.com/acigna/jquery-ajax-native) - jQuery Plugin that adds XHR2 responseType support
-  - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
   - [Nightly.js](https://github.com/Fcmam5/nightly.js) - A zero dependency JavaScript library for enabling the Dark mode in your UI
+  - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
 - PHP
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
@@ -46,7 +46,7 @@ A curated list of awesome things and projects built by Algerian developpers.
 - [awesome-open-minds](https://github.com/open-minds/awesome-openminds-team) awesome useful links, resources and shiny things for CS students, geeks and developers
 - [Deniable Encrypted Keys Database](https://github.com/abderraouf-adjal/dekdb-format-specifications) - Deniable Encrypted Keys Database (DEKDB) format specifications
 - [ESI-Linux](https://github.com/youben11/ESI_Linux/) - ESI Linux is a linux distribution made for ESI-SBA students particularly,it provides all the necessary tools for their curriculum
-- [Mini Express boilerplate](https://github.com/Fcmam5/mini-express-boilerplate) - A minimal Express boilerplate with passport user authentication, mongoose and some security setup configured 
+- [Mini Express boilerplate](https://github.com/Fcmam5/mini-express-boilerplate) - A minimal Express boilerplate with passport user authentication, mongoose and some security setup configured
 - [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
 
 ---
