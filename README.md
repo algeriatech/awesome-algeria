@@ -23,12 +23,13 @@ A curated list of awesome things and projects built by Algerian developpers.
 ## Libraries and Frameworks
 - CSS
   - [Hexa](https://github.com/amine1107/Hexa) A simple and lightweight CSS animation library
+  - [Lighter](https://github.com/amine1107/lighter) A flexible CSS micro framework
 - JavaScript
   - [Arli](https://github.com/elkebirmed/arli) - JavaScript tools for an Arabic development
   - [jQuery Ajax Native](https://github.com/acigna/jquery-ajax-native) - jQuery Plugin that adds XHR2 responseType support
   - [Nightly.js](https://github.com/Fcmam5/nightly.js) - A zero dependency JavaScript library for enabling the Dark mode in your UI
   - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
-  - [Nightly.js](https://github.com/Fcmam5/nightly.js) - A zero dependency JavaScript library for enabling the Dark mode in your UI
+  - [ReactNative swipe navigation](https://github.com/AZZB/react-native-swipe-navigation) Another react native navigation library
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
 - PHP
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
