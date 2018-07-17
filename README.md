@@ -44,12 +44,13 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
 
 ## Other
+- [AgreedOnThatData](https://github.com/ZakiChebli/AgreedOnThatData) - Ethereum Smart Contract that validates a document approuved by identified parties built with Solidity
 - [awesome-open-minds](https://github.com/open-minds/awesome-openminds-team) awesome useful links, resources and shiny things for CS students, geeks and developers
 - [Deniable Encrypted Keys Database](https://github.com/abderraouf-adjal/dekdb-format-specifications) - Deniable Encrypted Keys Database (DEKDB) format specifications
 - [ESI-Linux](https://github.com/youben11/ESI_Linux/) - ESI Linux is a linux distribution made for ESI-SBA students particularly,it provides all the necessary tools for their curriculum
 - [Mini Express boilerplate](https://github.com/Fcmam5/mini-express-boilerplate) - A minimal Express boilerplate with passport user authentication, mongoose and some security setup configured
 - [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
-- [AgreedOnThatData](https://github.com/ZakiChebli/AgreedOnThatData) - Ethereum Smart Contract that validates a document approuved by identified parties built with Solidity
+
 ---
 ## Contribution
 
