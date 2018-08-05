@@ -31,7 +31,6 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [Nightly.js](https://github.com/Fcmam5/nightly.js) - A zero dependency JavaScript library for enabling the Dark mode in your UI
   - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
-  - [Siga](https://github.com/amine1107/siga) - JavaScript Library to make development in javascript easier. 
 - PHP
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
 - Go
