@@ -24,6 +24,7 @@ A curated list of awesome things and projects built by Algerian developpers.
 ## Libraries and Frameworks
 - CSS
   - [Hexa](https://github.com/amine1107/Hexa) A simple and lightweight CSS animation library
+  - [Lighter](https://github.com/amine1107/lighter) Lighter is a flexible CSS micro framework based on the visual aspect, the framework offers you a clean and easy work.
 - JavaScript
   - [Arli](https://github.com/elkebirmed/arli) - JavaScript tools for an Arabic development
   - [jQuery Ajax Native](https://github.com/acigna/jquery-ajax-native) - jQuery Plugin that adds XHR2 responseType support
