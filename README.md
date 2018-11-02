@@ -21,6 +21,9 @@ A curated list of awesome things and projects built by Algerian developpers.
 - [OpenClass](https://github.com/youben11/open-class/) - OpenClass is a web app that promote information sharing through organized workshops.
 - [Timgad](https://github.com/OpenDZ/timgad) - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself
 
+## Games
+- [Catcheep](https://github.com/oussamabonnor1/Catcheep) - Catcheep is a free casual 2D tap to play mobile game suitable for all ages. Currently available on Play store. 
+
 ## Libraries and Frameworks
 - CSS
   - [Hexa](https://github.com/amine1107/Hexa) A simple and lightweight CSS animation library
