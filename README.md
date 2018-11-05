@@ -43,7 +43,12 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [internet-socket](https://github.com/youben11/internet-socket) - A library to facilitate the use of internet socket (socket of family PF_INET) in C programming
   - [simple-parted](https://github.com/youben11/simple-parted) - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 - Python
+  - [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) - Deep facial expressions recognition using Opencv and Tensorflow
+  - [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) - Training SVM classifier to recognize facial expressions (emotions) 
   - [Tchamba.random](https://github.com/Fcmam5/tchamba) package of functions generating random data (colors, names, jokes, letters..)
+- ROS
+  - [Pionner bringup](https://github.com/amineHorseman/pioneer_bringup) A ROS package providing roslaunch scripts for starting the Adept MobileRobots Pioneer and Pioneer-compatible robots
+  - [Pionner teleop](https://github.com/amineHorseman/pioneer_teleop) A ROS package providing scripts for teleoperation (using keyboard, web sockets, command line or xbox360 controller) to all Adept MobileRobots Pioneer and Pioneer-compatible robots
 - Other languages
   - [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
 
