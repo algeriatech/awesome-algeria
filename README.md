@@ -20,7 +20,7 @@ A curated list of awesome things and projects built by Algerian developpers.
 - [Ji3an](https://github.com/Taybou/JiaanApp) - Ji3an is a mobile application for food recipes and cart shopping
 - [OpenClass](https://github.com/youben11/open-class/) - OpenClass is a web app that promote information sharing through organized workshops.
 - [Timgad](https://github.com/OpenDZ/timgad) - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself
--[selma](https://github.com/FdevTech/Selma)-is virtual assistant backed by augmented reality capabilities built by Algerian engineers in 2018, it allows you to control different appliances in your home 
+- [selma](https://github.com/FdevTech/Selma) - A virtual assistant backed by augmented reality capabilities, it allows you to control different appliances in your home.
 
 ## Games
 - [Catcheep](https://github.com/oussamabonnor1/Catcheep) - Catcheep is a free casual 2D tap to play mobile game suitable for all ages. Currently available on Play store. 
