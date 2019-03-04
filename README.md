@@ -61,6 +61,9 @@ A curated list of awesome things and projects built by Algerian developpers.
 - [Mini Express boilerplate](https://github.com/Fcmam5/mini-express-boilerplate) - A minimal Express boilerplate with passport user authentication, mongoose and some security setup configured
 - [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
 
+## Tutorials and Learning Resources 
+- [Frontend-Learning-Journey](https://github.com/Amine-Smahi/Frontend-Learning-Journey) - Tutorials, definitions, frameworks and sample projects if you want to learn frontend web developement 
+
 ---
 ## Contribution
 
