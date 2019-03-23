@@ -37,8 +37,12 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
 - PHP
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
+  - [FrisAI](https://github.com/OGFris/FrisAI) - FrisAI is an A.I. based chat-bot made with PHP.
 - Go
+  - [ATCache](https://github.com/AnimeTwist/ATCache) - ATCache is a caching server (also called a CDN) written in go, for AnimeTwist used to store video files.
   - [Go Arabic](https://github.com/01walid/goarabic) - A Go Lang package for dealing with Arabic text
+  - [GoFiles](https://github.com/OGFris/GoFiles) - GoFiles lets you compile your static assets within your binary and access them within the library provided.
+  - [GoStats](https://github.com/OGFris/GoStats) - GoStats is a go library for math statistics mostly used in ML domains, it covers most of the statistical measures functions.
 - C
   - [ArduinoSpritzCipher](https://github.com/abderraouf-adjal/ArduinoSpritzCipher) - Spritz library for Arduino, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions
   - [internet-socket](https://github.com/youben11/internet-socket) - A library to facilitate the use of internet socket (socket of family PF_INET) in C programming
