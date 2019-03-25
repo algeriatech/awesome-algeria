@@ -36,8 +36,8 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
 - PHP
-  - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
   - [FrisAI](https://github.com/OGFris/FrisAI) - FrisAI is an A.I. based chat-bot made with PHP.
+  - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
 - Go
   - [ATCache](https://github.com/AnimeTwist/ATCache) - ATCache is a caching server (also called a CDN) written in go, for AnimeTwist used to store video files.
   - [Go Arabic](https://github.com/01walid/goarabic) - A Go Lang package for dealing with Arabic text
