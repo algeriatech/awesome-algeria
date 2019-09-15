@@ -18,8 +18,14 @@ A curated list of awesome things and projects built by Algerian developpers.
 - [Alfanous](https://github.com/Alfanous-team/alfanous) - Alfanous is an Arabic search engine API provides the simple and advanced search in Quran
 - [Cryptili](https://github.com/youben11/cryptili) - Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.
 - [Ji3an](https://github.com/Taybou/JiaanApp) - Ji3an is a mobile application for food recipes and cart shopping
+- [LSQLApp](https://github.com/houarizegai/lsqlapp) - Desktop application that helps teachers in practical work (TP) to evaluate students. It also helps students to learn SQL.
 - [OpenClass](https://github.com/youben11/open-class/) - OpenClass is a web app that promote information sharing through organized workshops.
-- [Timgad](https://github.com/OpenDZ/timgad) - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself
+- [Salat Time](https://github.com/Barbarosse/salat_time/) A simple python Web App that returns the five Islamic Prayer Times.
+- [selma](https://github.com/FdevTech/Selma) - A virtual assistant backed by augmented reality capabilities, it allows you to control different appliances in your home.
+- [Timgad](https://github.com/OpenDZ/timgad) - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.
+
+## Games
+- [Catcheep](https://github.com/oussamabonnor1/Catcheep) - Catcheep is a free casual 2D tap to play mobile game suitable for all ages. Currently available on Play store. 
 
 ## Libraries and Frameworks
 - CSS
@@ -32,9 +38,13 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
 - PHP
+  - [FrisAI](https://github.com/OGFris/FrisAI) - FrisAI is an A.I. based chat-bot made with PHP.
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
 - Go
+  - [ATCache](https://github.com/AnimeTwist/ATCache) - ATCache is a caching server (also called a CDN) written in go, for AnimeTwist used to store video files.
   - [Go Arabic](https://github.com/01walid/goarabic) - A Go Lang package for dealing with Arabic text
+  - [GoFiles](https://github.com/OGFris/GoFiles) - GoFiles lets you compile your static assets within your binary and access them within the library provided.
+  - [GoStats](https://github.com/OGFris/GoStats) - GoStats is a go library for math statistics mostly used in ML domains, it covers most of the statistical measures functions.
 - C
   - [ArduinoSpritzCipher](https://github.com/abderraouf-adjal/ArduinoSpritzCipher) - Spritz library for Arduino, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions
   - [internet-socket](https://github.com/youben11/internet-socket) - A library to facilitate the use of internet socket (socket of family PF_INET) in C programming
@@ -56,6 +66,9 @@ A curated list of awesome things and projects built by Algerian developpers.
 - [ESI-Linux](https://github.com/youben11/ESI_Linux/) - ESI Linux is a linux distribution made for ESI-SBA students particularly,it provides all the necessary tools for their curriculum
 - [Mini Express boilerplate](https://github.com/Fcmam5/mini-express-boilerplate) - A minimal Express boilerplate with passport user authentication, mongoose and some security setup configured
 - [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
+
+## Tutorials and Learning Resources 
+- [Frontend-Learning-Journey](https://github.com/Amine-Smahi/Frontend-Learning-Journey) - Tutorials, definitions, frameworks and sample projects if you want to learn frontend web developement 
 
 ---
 ## Contribution
