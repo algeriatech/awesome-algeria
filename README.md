@@ -69,6 +69,7 @@ A curated list of awesome things and projects built by Algerian developpers.
 
 ## Tutorials and Learning Resources 
 - [Frontend-Learning-Journey](https://github.com/Amine-Smahi/Frontend-Learning-Journey) - Tutorials, definitions, frameworks and sample projects if you want to learn frontend web developement 
+- [Computer vision tutorial (OpenCV & python)](https://github.com/amineHorseman/opencv-eldjmaa-live-coding) - Live coding session for learning computer vision, from capturing images to detecting faces (link to videos + code)
 
 ---
 ## Contribution
