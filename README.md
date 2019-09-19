@@ -18,7 +18,9 @@ A curated list of awesome things and projects built by Algerian developpers.
 - [Alfanous](https://github.com/Alfanous-team/alfanous) - Alfanous is an Arabic search engine API provides the simple and advanced search in Quran
 - [Cryptili](https://github.com/youben11/cryptili) - Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.
 - [Ji3an](https://github.com/Taybou/JiaanApp) - Ji3an is a mobile application for food recipes and cart shopping
+- [LSQLApp](https://github.com/houarizegai/lsqlapp) - Desktop application that helps teachers in practical work (TP) to evaluate students. It also helps students to learn SQL.
 - [OpenClass](https://github.com/youben11/open-class/) - OpenClass is a web app that promote information sharing through organized workshops.
+- [Salat Time](https://github.com/Barbarosse/salat_time/) A simple python Web App that returns the five Islamic Prayer Times.
 - [selma](https://github.com/FdevTech/Selma) - A virtual assistant backed by augmented reality capabilities, it allows you to control different appliances in your home.
 - [Timgad](https://github.com/OpenDZ/timgad) - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.
 
@@ -48,7 +50,11 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [internet-socket](https://github.com/youben11/internet-socket) - A library to facilitate the use of internet socket (socket of family PF_INET) in C programming
   - [simple-parted](https://github.com/youben11/simple-parted) - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 - Python
+<<<<<<< HEAD
     - [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
+=======
+  - [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
+>>>>>>> upstream/master
   - [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) - Deep facial expressions recognition using Opencv and Tensorflow
   - [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) - Training SVM classifier to recognize facial expressions (emotions)
   - [Malware Revealer](https://github.com/malware-revealer/malware-revealer) - A malware classification framework, designed primarily for malware detection, it contains a modular toolset for feature extraction, as well as pre-trained models and a ready to use web API for making predictions.
@@ -68,6 +74,7 @@ A curated list of awesome things and projects built by Algerian developpers.
 - [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) - Linux tamazight keyboard layout (bouth Tifinagh and Latin)
 
 ## Tutorials and Learning Resources 
+- [Computer vision tutorial (OpenCV & python)](https://github.com/amineHorseman/opencv-eldjmaa-live-coding) - Live coding session for learning computer vision, from capturing images to detecting faces (link to videos + code)
 - [Frontend-Learning-Journey](https://github.com/Amine-Smahi/Frontend-Learning-Journey) - Tutorials, definitions, frameworks and sample projects if you want to learn frontend web developement 
 
 ---
