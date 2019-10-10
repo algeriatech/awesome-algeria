@@ -17,10 +17,10 @@ A curated list of awesome things and projects built by Algerian developers.
 ## Applications
 - [Alfanous](https://github.com/Alfanous-team/alfanous) - Alfanous is an Arabic search engine API provides a simple and advanced search in Quran
 - [Cryptili](https://github.com/youben11/cryptili) - Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.
+- [JetStory](https://github.com/oussamabonnor1/JetStory) - JetStory is an open source android app made to help you spend your waiting time reading stories that have similar length to your available time.
 - [Ji3an](https://github.com/Taybou/JiaanApp) - Ji3an is a mobile application for food recipes and cart shopping
 - [OpenClass](https://github.com/youben11/open-class/) - OpenClass is a web app that promote information sharing through organized workshops.
 - [Timgad](https://github.com/OpenDZ/timgad) - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself
-- [JetStory](https://github.com/oussamabonnor1/JetStory) - JetStory is an open source android app made to help you spend your waiting time reading stories that have similar length to your available time.
 - [LSQLApp](https://github.com/houarizegai/lsqlapp) - A desktop application that helps teachers in practical work (TP) to evaluate students. It also helps students to learn SQL.
 - [Salat Time](https://github.com/Barbarosse/salat_time/) A simple python Web App that returns the five Islamic Prayer Times.
 - [selma](https://github.com/FdevTech/Selma) - A virtual assistant backed by augmented reality capabilities, it allows you to control different appliances in your home.
