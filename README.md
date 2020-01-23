@@ -23,7 +23,7 @@ A curated list of awesome things and projects built by Algerian developers.
 - [Salat Time](https://github.com/Barbarosse/salat_time/) A simple python Web App that returns the five Islamic Prayer Times.
 - [selma](https://github.com/FdevTech/Selma) - A virtual assistant backed by augmented reality capabilities, it allows you to control different appliances in your home.
 - [Timgad](https://github.com/OpenDZ/timgad) - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.
-
+[salati](https://github.com/seif1000/salati) an android app that helps muslims to performe their prayers in time by reminding them every when by adhan alarm .
 ## Games
 - [Catcheep](https://github.com/oussamabonnor1/Catcheep) - Catcheep is a free casual 2D tap to play mobile game suitable for all ages. Currently available on Play store. 
 
