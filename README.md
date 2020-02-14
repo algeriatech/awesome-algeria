@@ -54,6 +54,7 @@ A curated list of awesome things and projects built by Algerian developers.
   - [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   - [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) - Deep facial expressions recognition using Opencv and Tensorflow
   - [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) - Training SVM classifier to recognize facial expressions (emotions)
+  - [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) -  A Penetration Testing framework with Cyber Security Resources
   - [Malware Revealer](https://github.com/malware-revealer/malware-revealer) - A malware classification framework, designed primarily for malware detection, it contains a modular toolset for feature extraction, as well as pre-trained models and a ready to use web API for making predictions.
   - [Tchamba.random](https://github.com/Fcmam5/tchamba) package of functions generating random data (colors, names, jokes, letters..)
 - ROS
