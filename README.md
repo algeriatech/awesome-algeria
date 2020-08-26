@@ -57,6 +57,7 @@ A curated list of awesome things and projects built by Algerian developers.
   - [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) -  A Penetration Testing framework with Cyber Security Resources
   - [Malware Revealer](https://github.com/malware-revealer/malware-revealer) - A malware classification framework, designed primarily for malware detection, it contains a modular toolset for feature extraction, as well as pre-trained models and a ready to use web API for making predictions.
   - [Tchamba.random](https://github.com/Fcmam5/tchamba) package of functions generating random data (colors, names, jokes, letters..)
+  - [TenSEAL](https://github.com/OpenMined/TenSEAL) - A library for doing homomorphic encryption operations on tensors
 - ROS
   - [Pionner bringup](https://github.com/amineHorseman/pioneer_bringup) A ROS package providing ROS launch scripts for starting the Adept MobileRobots Pioneer and Pioneer-compatible robots
   - [Pionner teleop](https://github.com/amineHorseman/pioneer_teleop) A ROS package providing scripts for teleoperation (using keyboard, web sockets, command line or xbox360 controller) to all Adept MobileRobots Pioneer and Pioneer-compatible robots
