@@ -62,7 +62,10 @@ A curated list of awesome things and projects built by Algerian developers.
   - [Pionner bringup](https://github.com/amineHorseman/pioneer_bringup) A ROS package providing ROS launch scripts for starting the Adept MobileRobots Pioneer and Pioneer-compatible robots
   - [Pionner teleop](https://github.com/amineHorseman/pioneer_teleop) A ROS package providing scripts for teleoperation (using keyboard, web sockets, command line or xbox360 controller) to all Adept MobileRobots Pioneer and Pioneer-compatible robots
 - Other languages
-  - [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
+  - [Arabic Stemmer](https://github.com/assem-ch/arabicstemmer) - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
+
+## Educational Material
+- [DZ Code Academy](https://www.youtube.com/channel/UCwXgoe2Ove8fIuWadL4NNyw) - Learn to code in Arabic (Algerian dialect)
 
 ## Other
 - [AgreedOnThatData](https://github.com/ZakiChebli/AgreedOnThatData) - Ethereum Smart Contract that validates a document approved by identified parties built with Solidity
@@ -76,6 +79,7 @@ A curated list of awesome things and projects built by Algerian developers.
 - [Computer vision tutorial (OpenCV & python)](https://github.com/amineHorseman/opencv-eldjmaa-live-coding) - Live coding session for learning computer vision, from capturing images to detecting faces (link to videos + code)
 - [Frontend-Learning-Journey](https://github.com/Amine-Smahi/Frontend-Learning-Journey) - Tutorials, definitions, frameworks and sample projects if you want to learn front-end web development 
 - [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) - Python programming tutorials and recipes for beginner and intermediate Python programmers.
+
 
 ---
 ## Contribution
