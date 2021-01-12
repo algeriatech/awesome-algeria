@@ -38,6 +38,7 @@ A curated list of awesome things and projects built by Algerian developers.
   - [Nightly.js](https://github.com/Fcmam5/nightly.js) - A zero dependency JavaScript library for enabling the Dark mode in your UI
   - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
+  - [Vue Resume](https://github.com/SakhriHoussem/vue-resume) - a live resume builder using VueJs
 - PHP
   - [FrisAI](https://github.com/OGFris/FrisAI) - FrisAI is an A.I. based chat-bot made with PHP.
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
