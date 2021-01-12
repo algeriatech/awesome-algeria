@@ -24,6 +24,7 @@ A curated list of awesome things and projects built by Algerian developers.
 - [salati](https://github.com/seif1000/salati) an android app that helps muslims perform their prayers in time by reminding them every day when the time comes with an adhan alarm.
 - [selma](https://github.com/FdevTech/Selma) - A virtual assistant backed by augmented reality capabilities, it allows you to control different appliances in your home.
 - [Timgad](https://github.com/OpenDZ/timgad) - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.
+- [Vue Resume](https://github.com/SakhriHoussem/vue-resume) - A live resume builder using VueJs
 
 ## Games
 - [Catcheep](https://github.com/oussamabonnor1/Catcheep) - Catcheep is a free casual 2D tap to play mobile game suitable for all ages. Currently available on Play store. 
